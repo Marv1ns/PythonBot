@@ -1,7 +1,7 @@
 import requests
 import time
 
-TOKEN = "5566918951:AAE8C_oQYdjA8K5GcmUUuyaPb3lpWhAAsx8"
+TOKEN = ""
 
 ROOT_URL = f"https://api.telegram.org/bot{TOKEN}"
 
